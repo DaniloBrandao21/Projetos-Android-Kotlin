@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GastoViagem-Kotlin</string>
+    <string name="dist_ncia">Distância</string>
+    <string name="total_de_quil_metros">Total de quilômetros</string>
+    <string name="pre_o">Preço</string>
+    <string name="pre_o_por_litro">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="kms_por_litro">KMs por Litro</string>
+    <string name="seu_gasto_total_ser_de">Seu gasto total será de:</string>
+    <string name="calcular">Calcular</string>
+    <string name="ValorTotal">R$ 0</string>
+    <string name="preencha">Preencha todos os campos!</string>
+</resources>

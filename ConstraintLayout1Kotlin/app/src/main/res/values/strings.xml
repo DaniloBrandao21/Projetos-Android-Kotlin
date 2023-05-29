@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayout1 - Kotlin</string>
+    <string name="ing1">1 dose espresso</string>
+    <string name="ing2">100ml de leite</string>
+    <string name="ing3">1 colher de chocolate em pó</string>
+    <string name="text">Uma simples e perfeitamente extraída dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa.</string>
+</resources>
